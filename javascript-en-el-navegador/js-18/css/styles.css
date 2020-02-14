@@ -1,0 +1,17 @@
+/* @media screen and (orientation: portrait) {
+    body {
+        background: yellow;
+    }
+} */
+
+body {
+    font-size: 2em;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+p {
+    font-size: .5em;
+}
